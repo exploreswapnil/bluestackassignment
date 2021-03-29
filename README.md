@@ -6,4 +6,8 @@
 -**expected-output.txt** [This is the expected output file, for reference]
 - **logfile.txt** [The provided logfile for the assignment]
 
+<<<<<<< HEAD
 Feel free to revert in case of any issue.
+=======
+Feel free to revert in case of any issue.
+>>>>>>> d8385e94d07a7a2ddbc7e13cfd9f3675c90c6d19
